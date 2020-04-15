@@ -33,7 +33,7 @@
     "collectCoverage": true
   },
   "dependencies": {
-    "leaflet": "^1.4.0",
+    "leaflet": "^1.6.0",
     "npm-publish-git-tag": "^3.0.3",
     "vue2-leaflet": "^2.0.2"
   },
